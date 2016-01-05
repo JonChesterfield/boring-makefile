@@ -1,3 +1,6 @@
+# This is a prototype for a boring makefile.
+# If your build system is turing complete, you're doing it wrong.
+
 CC = clang
 CXX = clang++
 LINK = llvm-link
